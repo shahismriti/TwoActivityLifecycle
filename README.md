@@ -14,7 +14,7 @@
 
 ![scrollview](https://user-images.githubusercontent.com/50479152/171525866-3c5d2616-4eca-4d43-9943-96c6982137ca.gif)
 
-![twoactivity](https://user-images.githubusercontent.com/50479152/171525891-e0eae015-657a-44ff-ab94-9d07e47ccf6c.gif)
+
 <img width="337" alt="Screen Shot 2022-06-02 at 6 55 49 AM" src="https://user-images.githubusercontent.com/50479152/171526720-9762bf4e-47f0-4cb4-b723-0474ba9e5e82.png">
 <img width="337" alt="Screen Shot 2022-06-02 at 6 55 33 AM" src="https://user-images.githubusercontent.com/50479152/171526732-1e61e5b9-d91f-4bba-bfbf-3cf19c789513.png">
 <img width="338" alt="Screen Shot 2022-06-02 at 6 55 11 AM" src="https://user-images.githubusercontent.com/50479152/171526789-d8dd4f8c-a960-41fe-8310-0c53ee7a0e45.png">
