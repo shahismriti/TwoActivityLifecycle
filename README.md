@@ -8,9 +8,7 @@
 
 ![linearlayout](https://user-images.githubusercontent.com/50479152/171525802-7aa45a0b-f374-4aed-a09e-ae1b6a50f1e0.gif)
 
-![relativelayout](https://user-images.githubusercontent.com/50479152/171525825-edc53d69-5048-41fe-9671-6bd030a5dfc1.gif)
 
-![challengelayout](https://user-images.githubusercontent.com/50479152/171525839-cddc311a-e9c4-482c-9073-7d814bdca058.gif)
 
 ![scrollview](https://user-images.githubusercontent.com/50479152/171525866-3c5d2616-4eca-4d43-9943-96c6982137ca.gif)
 
